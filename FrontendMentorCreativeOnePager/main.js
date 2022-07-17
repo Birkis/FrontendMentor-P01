@@ -1,8 +1,6 @@
-console.log("hello")
+const galleryText = ["guidelines", "web design","merchandise"]
 
-const letters = "ABC"
-
-console.log(letters)
+//legger til en comment
 
 const prevButton = document.querySelector(".prev")
 const nextButton = document.querySelector(".next")
