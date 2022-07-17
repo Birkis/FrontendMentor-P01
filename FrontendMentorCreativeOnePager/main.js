@@ -1,5 +1,6 @@
 const galleryText = ["guidelines", "web design","merchandise"]
 
+
 //legger til en comment
 
 const prevButton = document.querySelector(".prev")
